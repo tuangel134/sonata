@@ -20,8 +20,8 @@ Material You · Android Auto · Auto-actualización
 
 ---
 
-> **Sonata** es un reproductor de música para Android que combina la **utilidad y
-> ligereza** de Musicolet con un **motor de audio potente** y una interfaz
+> **Sonata** es un reproductor de música para Android que combina **utilidad y
+> ligereza** con un **motor de audio potente** y una interfaz
 > **Material 3** moderna. Funciona **100% offline** con tu biblioteca local y,
 > si lo activas, también ofrece **streaming y descargas online** (YouTube Music).
 > Sin anuncios, sin telemetría, sin cuentas.
@@ -65,7 +65,7 @@ Material You · Android Auto · Auto-actualización
 
 ### 📚 Biblioteca
 - Organiza por **Canciones, Álbumes, Artistas, Carpetas y Listas**.
-- **Colas múltiples** independientes (estilo Musicolet).
+- **Colas múltiples** independientes, guardadas y reanudables.
 - **Favoritos** y **estadísticas** (más escuchadas, recientes, añadidas).
 - **Playlists** propias: crear, añadir y reordenar.
 - **Búsqueda global** instantánea.
