@@ -26,6 +26,34 @@ Material You · Android Auto · Auto-actualización
 > si lo activas, también ofrece **streaming y descargas online** (YouTube Music).
 > Sin anuncios, sin telemetría, sin cuentas.
 
+## 📸 Capturas
+
+<table>
+<tr>
+<td align="center"><b>Inicio</b><br><sub>Saludo + continuar escuchando</sub></td>
+<td align="center"><b>Biblioteca</b><br><sub>Canciones, álbumes, artistas…</sub></td>
+<td align="center"><b>Explorar</b><br><sub>YouTube Music + estados de ánimo</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/home.jpg" width="280"/></td>
+<td><img src="screenshots/library.jpg" width="280"/></td>
+<td><img src="screenshots/explore.jpg" width="280"/></td>
+</tr>
+<tr>
+<td align="center"><b>Ecualizador</b><br><sub>Bandas + presets</sub></td>
+<td align="center"><b>Procesado avanzado</b><br><sub>Limitador, compresor, ReplayGain</sub></td>
+<td align="center"><b>Apariencia</b><br><sub>Temas y estilos del reproductor</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/equalizer.jpg" width="280"/></td>
+<td><img src="screenshots/equalizer-advanced.jpg" width="280"/></td>
+<td><img src="screenshots/appearance.jpg" width="280"/></td>
+</tr>
+</table>
+
+<div align="center"><sub>Online — motor de streaming y auto-actualización</sub></div>
+<p align="center"><img src="screenshots/online.jpg" width="280"/></p>
+
 ## ✨ Características
 
 ### 🎧 Audio
